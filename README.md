@@ -28,7 +28,6 @@ Example env:
 ```
 DOCKER_USERNAME=username
 DOCKER_PASSWORD=password
-
 ```
 
 ### Command line parameters
